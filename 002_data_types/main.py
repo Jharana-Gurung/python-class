@@ -2,7 +2,7 @@
 data = ("Swift Academy", 99998765432, True, ("Hello", 56.90))  # tuple
 unique_data = {"Hello", 12, True, "World", "Hello"}  # set
 student_data = {
-    'name': "aayush gurung",
+    'name': "jharana gurung",
     'address': "lekhnath"
 }  # dictionary
 

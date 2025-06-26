@@ -16,7 +16,7 @@ largest = numbers[0]
 
 for num in numbers:
     if num > largest:
-        largest = num  
+        largest = num
 print("The largest number is:", largest)
 
 # Write a Python program to get the smallest number from a list.
@@ -25,6 +25,6 @@ smallest = numbers[0]
 
 for num in numbers:
     if num < smallest:
-        smallest = num  
+        smallest = num
 
 print("The smallest number is:", smallest)
